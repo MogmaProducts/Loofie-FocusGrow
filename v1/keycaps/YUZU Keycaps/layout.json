@@ -1,0 +1,3613 @@
+{
+  "keycapProfileId": "cherry",
+  "printType": "dyesub",
+  "keyboard": "tkl",
+  "language": null,
+  "name": "Loofie FocusGrow",
+  "author": "Mogma Products",
+  "mods": [],
+  "extensions": [],
+  "layers": [],
+  "layoutKeys": [
+    {
+      "x": -5.75,
+      "y": -1,
+      "id": "c6Lowx",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "Q",
+      "rowNumber": 2
+    },
+    {
+      "x": -4.75,
+      "y": -1,
+      "id": "TwdRLN",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "W",
+      "rowNumber": 2
+    },
+    {
+      "x": -3.75,
+      "y": -1,
+      "id": "1qBJe4",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "E",
+      "rowNumber": 2
+    },
+    {
+      "x": -2.75,
+      "y": -1,
+      "id": "fLda5o",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "R",
+      "rowNumber": 2
+    },
+    {
+      "x": -1.75,
+      "y": -1,
+      "id": "FYuIRw",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "T",
+      "rowNumber": 2
+    },
+    {
+      "x": 0.25,
+      "y": -1,
+      "id": "Q3L5Q5",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "Y",
+      "rowNumber": 2
+    },
+    {
+      "x": 1.25,
+      "y": -1,
+      "id": "3L9JdG",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "U",
+      "rowNumber": 2
+    },
+    {
+      "x": 2.25,
+      "y": -1,
+      "id": "Kve5uG",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "I",
+      "rowNumber": 2
+    },
+    {
+      "x": 3.25,
+      "y": -1,
+      "id": "tI3JCl",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "O",
+      "rowNumber": 2
+    },
+    {
+      "x": 4.25,
+      "y": -1,
+      "id": "9Gcgj2",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "P",
+      "rowNumber": 2
+    },
+    {
+      "x": 5.25,
+      "y": -1,
+      "id": "WlzEGS",
+      "vRow": 2,
+      "sizeId": "1u",
+      "labelId": "dash",
+      "rowNumber": 2
+    },
+    {
+      "x": -7.25,
+      "y": 0,
+      "id": "CZyjBn",
+      "vRow": 3,
+      "sizeId": "1.75u",
+      "labelId": "ctrl",
+      "rowNumber": 3
+    },
+    {
+      "x": -5.5,
+      "y": 0,
+      "id": "Dd4lmq",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "A",
+      "rowNumber": 3
+    },
+    {
+      "x": -4.5,
+      "y": 0,
+      "id": "pPGhN4",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "S",
+      "rowNumber": 3
+    },
+    {
+      "x": -3.5,
+      "y": 0,
+      "id": "TQD6QD",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "D",
+      "rowNumber": 3
+    },
+    {
+      "x": -1.5,
+      "y": 0,
+      "id": "yxUSUX",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "G",
+      "rowNumber": 3
+    },
+    {
+      "x": 0.5,
+      "y": 0,
+      "id": "iMHSA8",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "H",
+      "rowNumber": 3
+    },
+    {
+      "x": 2.5,
+      "y": 0,
+      "id": "1EvPC3",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "K",
+      "rowNumber": 3
+    },
+    {
+      "x": 3.5,
+      "y": 0,
+      "id": "p4W4w2",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "L",
+      "rowNumber": 3
+    },
+    {
+      "x": 4.5,
+      "y": 0,
+      "id": "aI9LdZ",
+      "vRow": 3,
+      "sizeId": "1u",
+      "labelId": "semicolon",
+      "rowNumber": 3
+    },
+    {
+      "x": 5.5,
+      "y": 0,
+      "id": "BdntWw",
+      "vRow": 3,
+      "sizeId": "2.25u",
+      "labelId": "enter",
+      "rowNumber": 3
+    },
+    {
+      "x": -7.25,
+      "y": 1,
+      "id": "i2v5GJ",
+      "vRow": 4,
+      "sizeId": "2.25u",
+      "labelId": "shift",
+      "rowNumber": 4
+    },
+    {
+      "x": -5,
+      "y": 1,
+      "id": "gQI1ZO",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "Z",
+      "rowNumber": 4
+    },
+    {
+      "x": -4,
+      "y": 1,
+      "id": "ookNvh",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "X",
+      "rowNumber": 4
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "id": "SNvv6c",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "C",
+      "rowNumber": 4
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "id": "Oq4X5H",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "V",
+      "rowNumber": 4
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "id": "KTM727",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "B",
+      "rowNumber": 4
+    },
+    {
+      "x": -7.25,
+      "y": -1,
+      "id": "RQkLZ7",
+      "vRow": 2,
+      "sizeId": "1.5u",
+      "labelId": "tab",
+      "rowNumber": 2
+    },
+    {
+      "x": 6.25,
+      "y": -1,
+      "id": "Kud0Bs",
+      "vRow": 2,
+      "sizeId": "1.5u",
+      "labelId": "del",
+      "rowNumber": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "id": "DWUQWl",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "N",
+      "rowNumber": 4
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "id": "0tiIor",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "M",
+      "rowNumber": 4
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "id": "TGY7aF",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "comma",
+      "rowNumber": 4
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "id": "2ZJiQJ",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "dot",
+      "rowNumber": 4
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "id": "uoCMiU",
+      "vRow": 4,
+      "sizeId": "1u",
+      "labelId": "slash",
+      "rowNumber": 4
+    },
+    {
+      "x": -7.25,
+      "y": 2,
+      "id": "ppD91i",
+      "vRow": 5,
+      "sizeId": "1.25u",
+      "labelId": "fn",
+      "rowNumber": 4
+    },
+    {
+      "x": -6,
+      "y": 2,
+      "id": "BpGDgM",
+      "vRow": 5,
+      "sizeId": "1.25u",
+      "labelId": "super",
+      "rowNumber": 4
+    },
+    {
+      "x": -4.75,
+      "y": 2,
+      "id": "ebkR9o",
+      "vRow": 5,
+      "sizeId": "1.25u",
+      "labelId": "alt",
+      "rowNumber": 4
+    },
+    {
+      "x": -2.5,
+      "y": 0,
+      "id": "KaZThc",
+      "vRow": 3,
+      "sizeId": "1uh",
+      "labelId": "F",
+      "rowNumber": 3
+    },
+    {
+      "x": 1.5,
+      "y": 0,
+      "id": "kZB7Zk",
+      "vRow": 3,
+      "sizeId": "1uh",
+      "labelId": "J",
+      "rowNumber": 3
+    },
+    {
+      "x": 2.75,
+      "y": 2,
+      "id": "mods12565-alt",
+      "vRow": 5,
+      "sizeId": "1.25u",
+      "labelId": "cmd",
+      "rowNumber": 4
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "id": "mods12565-super",
+      "vRow": 5,
+      "sizeId": "1.25u",
+      "labelId": "alt",
+      "rowNumber": 4
+    },
+    {
+      "x": 10.5,
+      "y": 0,
+      "id": "63ULR4",
+      "sizeId": "1u",
+      "labelId": "bracket-right",
+      "rowNumber": 3
+    },
+    {
+      "x": 11.25,
+      "y": -1,
+      "id": "LFRPXT",
+      "sizeId": "enter",
+      "labelId": "iso-enter",
+      "rowNumber": 2
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "id": "AVKH4W",
+      "sizeId": "1.75u",
+      "labelId": "shift",
+      "rowNumber": 4
+    },
+    {
+      "x": 5.25,
+      "y": 2,
+      "id": "54JY8T",
+      "sizeId": "1.25u",
+      "labelId": "super",
+      "rowNumber": 4
+    },
+    {
+      "x": 6.5,
+      "y": 2,
+      "id": "EFK9GW",
+      "sizeId": "1.25u",
+      "labelId": "fn",
+      "rowNumber": 4
+    },
+    {
+      "x": -3.5,
+      "y": 2,
+      "id": "GQLF4B",
+      "sizeId": "1u",
+      "labelId": "cmd",
+      "rowNumber": 4
+    },
+    {
+      "x": -2.5,
+      "y": 2,
+      "id": "LXJP5P",
+      "sizeId": "2.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 0.75,
+      "y": 2,
+      "id": "QHQFV6",
+      "sizeId": "2u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": -6,
+      "y": 3.5,
+      "id": "3Z6VNY",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": -4.75,
+      "y": 3.5,
+      "id": "YZ72EL",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": -3.5,
+      "y": 3.5,
+      "id": "3LNTBM",
+      "sizeId": "1u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 2.75,
+      "y": 3.5,
+      "id": "7KJ3F9",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 4,
+      "y": 3.5,
+      "id": "3WMM9D",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 9.5,
+      "y": 0,
+      "id": "U4XGKL",
+      "sizeId": "1u",
+      "labelId": "bracket-left",
+      "rowNumber": 3
+    },
+    {
+      "x": 9.25,
+      "y": -1,
+      "id": "9NCHB8",
+      "sizeId": "1u",
+      "labelId": "backslash",
+      "rowNumber": 2
+    },
+    {
+      "x": 8.25,
+      "y": -1,
+      "id": "3D3LXQ",
+      "sizeId": "1u",
+      "labelId": "equal",
+      "rowNumber": 2
+    },
+    {
+      "x": 8.5,
+      "y": 0,
+      "id": "4EJCQB",
+      "sizeId": "1u",
+      "labelId": "apostrophe",
+      "rowNumber": 3
+    },
+    {
+      "x": 0.75,
+      "y": 3.5,
+      "id": "CXTX6W",
+      "sizeId": "2ux",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": -2.5,
+      "y": 3.5,
+      "id": "SF549V",
+      "sizeId": "2.25ux",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 10.25,
+      "y": -1,
+      "id": "YD6SWV",
+      "sizeId": "1u",
+      "labelId": "del",
+      "rowNumber": 2
+    },
+    {
+      "x": 5.25,
+      "y": 3.5,
+      "id": "L2GSGG",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 6.5,
+      "y": 3.5,
+      "id": "9DTBUG",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    },
+    {
+      "x": 7.75,
+      "y": 3.5,
+      "id": "EARALF",
+      "sizeId": "1.25u",
+      "labelId": "space",
+      "rowNumber": 4
+    }
+  ],
+  "keys": {
+    "0tiIor": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "m",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "1EvPC3": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "k",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "1qBJe4": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "e",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "2ZJiQJ": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": ".",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": ">",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "3D3LXQ": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "\\",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "|",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "3L9JdG": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "u",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "3LNTBM": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "win",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "3WMM9D": {
+      "layers": [
+        {
+          "x": -0.5,
+          "y": -15.700000000000001,
+          "id": "9CBF",
+          "vectId": 1208,
+          "colorId": "BL041",
+          "vectDef": "M16.224,77.576C15.885,77.734 15.482,77.587 15.324,77.249C15.167,76.91 15.313,76.507 15.652,76.349L32.714,68.387C32.901,68.299 33.118,68.302 33.303,68.395L48.323,75.905L48.323,73C48.323,72.627 48.627,72.323 49,72.323C49.373,72.323 49.677,72.627 49.677,73L49.677,77C49.677,77.235 49.555,77.452 49.356,77.576C49.156,77.699 48.907,77.71 48.697,77.605L32.99,69.752L16.224,77.576Z",
+          "vectScale": 120,
+          "vectViewbox": "0 0 67 67",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": -0.5,
+          "y": -15.700000000000001,
+          "id": "TNK5",
+          "vectId": 1208,
+          "colorId": "PL007",
+          "vectDef": "M48.291,71.093C47.917,71.093 47.614,70.79 47.614,70.416C47.614,70.043 47.917,69.739 48.291,69.739L49.701,69.739C50.074,69.739 50.377,70.043 50.377,70.416C50.377,70.79 50.074,71.093 49.701,71.093L48.291,71.093Z",
+          "vectScale": 120,
+          "vectViewbox": "0 0 67 67",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": -0.5,
+          "y": -15.700000000000001,
+          "id": "FEX3",
+          "vectId": 1208,
+          "colorId": "OG012",
+          "vectDef": "M49.701,68.637C49.327,68.637 49.024,68.334 49.024,67.961C49.024,67.587 49.327,67.284 49.701,67.284L52.05,67.284C52.424,67.284 52.727,67.587 52.727,67.961C52.727,68.334 52.424,68.637 52.05,68.637L49.701,68.637Z",
+          "vectScale": 120,
+          "vectViewbox": "0 0 67 67",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": -0.5,
+          "y": -15.700000000000001,
+          "id": "EBQL",
+          "vectId": 1208,
+          "colorId": "GN028",
+          "vectDef": "M51.11,66.182C50.737,66.182 50.434,65.879 50.434,65.505C50.434,65.132 50.737,64.828 51.11,64.828L54.4,64.828C54.773,64.828 55.077,65.132 55.077,65.505C55.077,65.879 54.773,66.182 54.4,66.182L51.11,66.182Z",
+          "vectScale": 120,
+          "vectViewbox": "0 0 67 67",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": -0.5,
+          "y": -15.700000000000001,
+          "id": "SS88",
+          "vectId": 1208,
+          "colorId": "PL001",
+          "vectDef": "",
+          "vectScale": 120,
+          "vectViewbox": "",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "3Z6VNY": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "win",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "4EJCQB": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "'",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "\"",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "54JY8T": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "ctrl",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "63ULR4": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "]",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "}",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "7KJ3F9": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "win",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "9DTBUG": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "brew",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "9Gcgj2": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "p",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "9NCHB8": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "=",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "+",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "AVKH4W": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "shift",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "BdntWw": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "GR002",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "enter",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "BL041"
+    },
+    "BpGDgM": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "ctrl",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "CXTX6W": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "GR001",
+          "textCase": "lower",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "CZyjBn": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "ctrl",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "DWUQWl": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "n",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "Dd4lmq": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "a",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "EARALF": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "tend",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "EFK9GW": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "fn",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.15
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "FYuIRw": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "t",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "GQLF4B": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "cmd",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "KTM727": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "b",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "KaZThc": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "f",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "Kud0Bs": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "delete",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "Kve5uG": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "i",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "L2GSGG": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "nap",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "LFRPXT": {
+      "layers": [
+        {
+          "x": 10,
+          "y": -7.9,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "GR002",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "enter",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "BL041"
+    },
+    "LXJP5P": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "GR001",
+          "textCase": "lower",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "Oq4X5H": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "v",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "Q3L5Q5": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "y",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "QHQFV6": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "GR001",
+          "textCase": "lower",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "RQkLZ7": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "tab",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "SF549V": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "GR001",
+          "textCase": "lower",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "GR005",
+          "textSize": 5.8,
+          "textLabel": "",
+          "textFontId": 26
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "SNvv6c": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "c",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "TGY7aF": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": ",",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "<",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "TQD6QD": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "d",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "TwdRLN": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "w",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "U4XGKL": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "[",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "{",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "WlzEGS": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "-",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "_",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "YD6SWV": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "del",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "YZ72EL": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "cmd",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "aI9LdZ": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": ";",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": ":",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "c6Lowx": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "q",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "ebkR9o": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "alt",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "fLda5o": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "r",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "gQI1ZO": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "z",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "i2v5GJ": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "shift",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "iMHSA8": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "h",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "kZB7Zk": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "j",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "ookNvh": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "x",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "p4W4w2": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "l",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "pPGhN4": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "s",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "ppD91i": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "fn",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.15
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "tI3JCl": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "o",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "uoCMiU": {
+      "layers": [
+        {
+          "x": 6.7,
+          "y": 1.3000000000000003,
+          "id": "lJ31",
+          "lockX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "/",
+          "textFontId": 19445
+        },
+        {
+          "x": 6.7,
+          "y": -4.4,
+          "id": "UIl3",
+          "lockX": "left",
+          "colorId": "BN034",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "?",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.4,
+          "id": "Y2V4",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "RD018",
+          "textSize": 6,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "LBPS",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "yxUSUX": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.9,
+          "id": "uZbA",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BN025",
+          "textCase": "lower",
+          "textSize": 3.5,
+          "textLabel": "g",
+          "textFontId": 19445
+        },
+        {
+          "x": -5.4,
+          "y": -4.3,
+          "id": "CGCC",
+          "lockX": "right",
+          "alignX": "right",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.9,
+          "id": "TW2F",
+          "lockX": "right",
+          "colorId": "YW002",
+          "textSize": 578,
+          "textLabel": "",
+          "textFontId": 5167
+        },
+        {
+          "x": 7,
+          "y": 1.9,
+          "id": "XLTW",
+          "lockX": "left",
+          "colorId": "YW002"
+        },
+        {
+          "x": -7,
+          "y": 1.8,
+          "id": "RQWJ",
+          "lockX": "right",
+          "vectId": 1208,
+          "colorId": "OG028",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        },
+        {
+          "x": 7,
+          "y": 1.8,
+          "id": "27YL",
+          "lockX": "left",
+          "vectId": 1208,
+          "colorId": "BL035",
+          "vectDef": "",
+          "vectScale": 26.25,
+          "vectViewbox": "0 0 1000 1000",
+          "vectCollectionId": "323694ae-d835-48a6-bcce-cd89106894d2"
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "mods12565-alt": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "cmd",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    },
+    "mods12565-super": {
+      "layers": [
+        {
+          "x": 6,
+          "y": -3.5999999999999996,
+          "id": "yzyM",
+          "lockX": "left",
+          "alignX": "left",
+          "colorId": "BL041",
+          "textCase": "lower",
+          "textSize": 3,
+          "textLabel": "alt",
+          "textFontId": 19445,
+          "textLetterSpacing": 0.05
+        }
+      ],
+      "colorId": "GR002"
+    }
+  },
+  "keyTemplates": {
+    "0tiIor": "cPpy",
+    "1EvPC3": "cPpy",
+    "1qBJe4": "cPpy",
+    "2ZJiQJ": "VLMW",
+    "3D3LXQ": "VLMW",
+    "3L9JdG": "cPpy",
+    "3LNTBM": "eGIz",
+    "3WMM9D": "DLXY",
+    "3Z6VNY": "eGIz",
+    "4EJCQB": "VLMW",
+    "54JY8T": "eGIz",
+    "63ULR4": "VLMW",
+    "7KJ3F9": "eGIz",
+    "9DTBUG": "eGIz",
+    "9Gcgj2": "cPpy",
+    "9NCHB8": "VLMW",
+    "AVKH4W": "eGIz",
+    "BdntWw": "YFR5",
+    "BpGDgM": "eGIz",
+    "CXTX6W": "cPpy",
+    "CZyjBn": "eGIz",
+    "DWUQWl": "cPpy",
+    "Dd4lmq": "cPpy",
+    "EARALF": "eGIz",
+    "EFK9GW": "eGIz",
+    "FYuIRw": "cPpy",
+    "GQLF4B": "eGIz",
+    "KTM727": "cPpy",
+    "KaZThc": "cPpy",
+    "Kud0Bs": "eGIz",
+    "Kve5uG": "cPpy",
+    "L2GSGG": "eGIz",
+    "LFRPXT": "74Q8",
+    "LXJP5P": "cPpy",
+    "Oq4X5H": "cPpy",
+    "Q3L5Q5": "cPpy",
+    "QHQFV6": "cPpy",
+    "RQkLZ7": "eGIz",
+    "SF549V": "cPpy",
+    "SNvv6c": "cPpy",
+    "TGY7aF": "VLMW",
+    "TQD6QD": "cPpy",
+    "TwdRLN": "cPpy",
+    "U4XGKL": "VLMW",
+    "WlzEGS": "VLMW",
+    "YD6SWV": "eGIz",
+    "YZ72EL": "eGIz",
+    "aI9LdZ": "VLMW",
+    "c6Lowx": "cPpy",
+    "ebkR9o": "eGIz",
+    "fLda5o": "cPpy",
+    "gQI1ZO": "cPpy",
+    "i2v5GJ": "eGIz",
+    "iMHSA8": "cPpy",
+    "kZB7Zk": "cPpy",
+    "ookNvh": "cPpy",
+    "p4W4w2": "cPpy",
+    "pPGhN4": "cPpy",
+    "ppD91i": "eGIz",
+    "tI3JCl": "cPpy",
+    "uoCMiU": "VLMW",
+    "yxUSUX": "cPpy",
+    "mods12565-alt": "eGIz",
+    "mods12565-super": "eGIz"
+  },
+  "designUrl": "cherry-default"
+}
